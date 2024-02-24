@@ -1,4 +1,4 @@
-nombres = "camilita"
+nombres = "PEPE"
 apellidos = "Quintero Calle"
 
 saludo = "Hola, " + nombre + " " + apellido + ", como estas mi rey, como va tu dia?"
