@@ -1,4 +1,4 @@
-nombres = "Weimar Dario"
+nombres = "Weimitar"
 apellidos = "Quintero Calle"
 
 saludo = "Hola, " + nombres + " " + apellidos + ", como estas mi rey, como va tu dia?"
